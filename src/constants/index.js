@@ -209,7 +209,7 @@ const projects = [
       },
     ],
     image: docbook,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kkPau/Doctor-Appointment.git",
   },
   {
     name: "Image Blog",
@@ -230,7 +230,7 @@ const projects = [
       },
     ],
     image: shareme,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kkPau/shareme.git",
   },
   {
     name: "3D Portfolio",
@@ -255,7 +255,7 @@ const projects = [
       },
     ],
     image: threedport,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kkPau/3D_Portfolio.git",
   },
   {
     name: "Portfolio",
@@ -276,7 +276,7 @@ const projects = [
       },
     ],
     image: port,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kkPau/porfolio.git",
   },
   {
     name: "Attendance System",
@@ -297,7 +297,8 @@ const projects = [
       },
     ],
     image: frca,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/misterkwao/facial_recog_attendance_app.git",
   },
   {
     name: "Food Menu",
@@ -322,7 +323,7 @@ const projects = [
       },
     ],
     image: foodmenu,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kkPau/FoodMenu.git",
   },
 ];
 
